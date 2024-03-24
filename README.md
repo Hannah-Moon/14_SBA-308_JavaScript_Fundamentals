@@ -43,7 +43,7 @@ Reflecting on my journey with JavaScript, I find that while I grasp the theoreti
 This recent assignment, in particular, really put my skills to the test. Meeting all the criteria seemed like an endless loop of reviewing and revising my code. There were moments when I felt overwhelmed by the complexity of the task at hand.
 
 However, as I look back on this experience, I can't help but feel a sense of pride in how far I've come. Despite the challenges, I persevered and managed to write functional code. This accomplishment serves as a reminder of my growth and determination in mastering JavaScript. It's moments like these that reinforce my passion for coding and motivate me to continue pushing myself further.
-<br>
+<br><br>
 
 ## 🌟 Show your support
 
