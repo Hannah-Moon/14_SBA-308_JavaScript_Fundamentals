@@ -30,7 +30,7 @@ Then, I rendered the diagram by utilizing diagrams.net.
 
 <img src="Diagram_JavaScript_Fundamentals.drawio.png" width="400">
 This feature is powered by [diagrams.net](https://app.diagrams.net/).
-<br>
+<br><br>
 
 ## ✍️ Process.
 <br>
@@ -48,7 +48,7 @@ However, as I look back on this experience, I can't help but feel a sense of pri
 ## 🌟 Show your support
 
 Please give a ⭐ if you like this work. Thank you!
-<br>
+<br><br>
 
 ## 📄 License
 
