@@ -22,7 +22,7 @@ After receiving the assignment, I recalled the instructor's advice to approach i
 So, I began by jotting down each calculation required and writing out the equations on the sticky notes. 
 Then, I shuffled them around to ensure the flow made sense logically and led to the final answers. 
 This process was crucial as it allowed me to construct a clear picture of the scenario and better understand the complex problem.
-<img src="postit.jpg" width="400">
+<br><img src="postit.jpg" width="400">
 
 Then, I rendered the diagram by utilizing diagrams.net. 
 
