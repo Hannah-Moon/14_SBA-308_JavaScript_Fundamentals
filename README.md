@@ -55,4 +55,4 @@ Please give a ⭐ if you like this work. Thank you!
 
 And, of course:
 
-MIT: <https://rem.mit-license.org>
+MIT: <https://en.wikipedia.org/wiki/MIT_License>
