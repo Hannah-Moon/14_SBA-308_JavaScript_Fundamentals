@@ -168,20 +168,54 @@ const CourseInfo = {
 
 function getLearnerData(course, ag, submissions) {
 
-    // Store information about learners
-    const learnerData = {}
+    // Create a new empty object, so learnerData is being initialized as an empty object.
+    // So that I can store information about learners 
+    let learnerData = {}
 
-    // Loop through submissions to gather data
+    // Simplify the name using 'let' key words, then loop through submissions to gather data
     submissions.forEach(submission => {
-        const learnerId = submission.learner_id
-        const assignmentId = submission.assignment_id
-        const score = submission.submission.score
-        const dueDate = new Date(ag.assignments.find(assignment => assignment.id === assignmentId).due_at)
-        const pointsPossible = ag.assignments.find(assignment => assignment.id === assignmentId).points_possible
+        let learnerId = submission.learner_id
+        let assignmentId = submission.assignment_id
+        let score = submission.submission.score
+        //  Use the 'find' method to search for an assignment that has an id property matching the assignmentId variable. 
+        // Once found, returns that assignment object.
+
+        // 1. Find the assignment in the "ag.assignments" array where the assignment's ID matches the provided "assignmentId".
+        // 2. Get the "due_at" property value of the found assignment.
+        // 3. Create a new Date object using the "due_at" value.
+        // 4. Store the newly created Date object in the variable "dueDate".
+
+        // let dueDate = new Date(ag.assignments.find(assignment => assignment.id === assignmentId).due_at)
+
+        // 1. Find the assignment in the "ag.assignments" array where the assignment's ID matches the provided "assignmentId".
+        // 2. Get the value of the "points_possible" property of the found assignment.
+        // 3. Store the value of "points_possible" in the variable "pointsPossible".
+
+        // let pointsPossible = ag.assignments.find(assignment => assignment.id === assignmentId).points_possible
+
+        // Hold off above solutiona and try this try/catch code. 
+
+        let dueDate
+        let pointsPossible
+
+        try {
+            const foundAssignment = ag.assignments.find(assignment => assignment.id === assignmentId);
+            if (!foundAssignment) {
+                throw new Error('The assignment was not under 12345-Fundamentals of JavaScrip.');
+            }
+            dueDate = new Date(foundAssignment.due_at);
+            pointsPossible = foundAssignment.points_possible;
+
+        // Skip the submission if assignment not found.
+        } catch (error) {
+            console.error(`Sorry, we don't find an assignment: ${error.message}`);
+            return; 
+        }
 
         // Check if the assignment due date has passed and skip this assignment if the due date hasn't passed
         if (dueDate > new Date()) {
             return; 
+        }else{
         }
 
         // Initialize data for new learners and store individual assignment scores.
@@ -192,7 +226,7 @@ function getLearnerData(course, ag, submissions) {
                 totalPointsPossible: 0,
                 assignmentScores: {}, 
                 lateAssignmentPenalty: 0
-            };
+            }
         }
 
         // Calculate late submission penalty. If late assignment is found, deduct 10%. 
