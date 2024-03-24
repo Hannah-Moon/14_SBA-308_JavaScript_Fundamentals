@@ -260,3 +260,4 @@ function getLearnerData(course, ag, submissions) {
 const resultData = getLearnerData(CourseInfo, AssignmentGroup, LearnerSubmissions)
 console.log(resultData)
 
+

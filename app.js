@@ -109,4 +109,8 @@ const CourseInfo = {
 
   // -------------------------- { My 1st attempt }
 
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 13d0431484d79365b1cdba0f959fee813bfc886d
