@@ -32,7 +32,8 @@ Then, I rendered the diagram by utilizing diagrams.net.
 This feature is powered by [diagrams.net](https://app.diagrams.net/).
 <br><br>
 
-## ✍️ Process.
+## ⛱ Secret source.
+I watched Dr.Angela Yu's video to recall all that I had learned during the class. Her kind and throw explanation helped me to boost my confidence to dive into this challenge. This video was my secret ingredient in finishing the assignment.[Learn JavaScript with Dr.Angela Yu](https://pages.github.com/](https://www.youtube.com/watch?v=E1qyVGWXcIs).
 <br>
 <br>
 
