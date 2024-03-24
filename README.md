@@ -5,18 +5,19 @@
 
 ## </> Main language 
 - JavaScript: <code>solution.js</code> is the answer for this assignment. 
+<br>
 
 ## 📢 Introduction
 This <b>repository</b> holds an SBA assignment to demonstrate the utilization of modern JS key features. 
 
-### The objectives of this assignment are: 
+#### The objectives of this assignment are: 
 - Employ basic JavaScript syntax accurately.
 - Implement control flow structures such as conditionals and loops effectively.
 - Use arrays and objects to organize and manage data.
 - Develop functions to create reusable code.
 - Utilize loops and iteration to navigate through data collections.
 - Implement error handling to manage potential code failures gracefully.
-
+<br>
 
 ## 💡 What did I try as a new approach? Draw a diagram. 
 After receiving the assignment, I recalled the instructor's advice to approach it one step at a time. 
@@ -29,9 +30,11 @@ Then, I rendered the diagram by utilizing diagrams.net.
 
 <img src="Diagram_JavaScript_Fundamentals.drawio.png" width="400">
 This feature is powered by [diagrams.net](https://app.diagrams.net/).
-
+<br>
 
 ## ✍️ Process.
+<br>
+<br>
 
 
 ## 💭 Reflection 
@@ -40,12 +43,12 @@ Reflecting on my journey with JavaScript, I find that while I grasp the theoreti
 This recent assignment, in particular, really put my skills to the test. Meeting all the criteria seemed like an endless loop of reviewing and revising my code. There were moments when I felt overwhelmed by the complexity of the task at hand.
 
 However, as I look back on this experience, I can't help but feel a sense of pride in how far I've come. Despite the challenges, I persevered and managed to write functional code. This accomplishment serves as a reminder of my growth and determination in mastering JavaScript. It's moments like these that reinforce my passion for coding and motivate me to continue pushing myself further.
-
+<br>
 
 ## 🌟 Show your support
 
 Please give a ⭐ if you like this work. Thank you!
-
+<br>
 
 ## 📄 License
 
