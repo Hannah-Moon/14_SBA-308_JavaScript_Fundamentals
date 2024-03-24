@@ -19,12 +19,14 @@ After receiving the assignment, I recalled the instructor's advice to approach i
 So, I began by jotting down each calculation required and writing out the equations on the sticky notes. 
 Then, I shuffled them around to ensure the flow made sense logically and led to the final answers. 
 This process was crucial as it allowed me to construct a clear picture of the scenario and better understand the complex problem.
-![screenshot](postit.jpg =250x250)
+<img src="poitit.jpg" width="400">
 
 Then, I rendered the diagram by utilizing diagrams.net. 
 
-![screenshot](Diagram_JavaScript_Fundamentals.drawio.png =250x250))
+<img src="Diagram_JavaScript_Fundamentals.drawio.png" width="400">
 This feature is powered by [diagrams.net](https://app.diagrams.net/).
+
+
 
 ## Reflection 
 I feel like I know the JS but when I apply the knowlege in action of writing code, I feel so much challgned by the 
