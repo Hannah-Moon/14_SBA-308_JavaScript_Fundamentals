@@ -19,7 +19,7 @@ This <b>repository</b> holds an SBA assignment to demonstrate the utilization of
 - Implement error handling to manage potential code failures gracefully.
 <br>
 
-## 💡 What did I try as a new approach? <br>   Draw a diagram. 
+## 💡 What did I try as a new approach? <br>&nbsp;&nbsp;&nbsp;Draw a diagram. 
 After receiving the assignment, I recalled the instructor's advice to approach it one step at a time. 
 So, I began by jotting down each calculation required and writing out the equations on the sticky notes. 
 Then, I shuffled them around to ensure the flow made sense logically and led to the final answers. 
