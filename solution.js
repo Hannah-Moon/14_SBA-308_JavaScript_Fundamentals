@@ -193,7 +193,7 @@ function getLearnerData(course, ag, submissions) {
 
         // let pointsPossible = ag.assignments.find(assignment => assignment.id === assignmentId).points_possible
 
-        // Hold off above solutiona and try this try/catch code. 
+        // Hold off the above solution and try this try/catch code. 
 
         let dueDate
         let pointsPossible
