@@ -19,10 +19,11 @@ After receiving the assignment, I recalled the instructor's advice to approach i
 So, I began by jotting down each calculation required and writing out the equations on the sticky notes. 
 Then, I shuffled them around to ensure the flow made sense logically and led to the final answers. 
 This process was crucial as it allowed me to construct a clear picture of the scenario and better understand the complex problem.
-![screenshot](postit.png)
+![screenshot](postit.jpg)
 
-Then, I rendered diagram by utilizing diagrams.net. 
+Then, I rendered the diagram by utilizing diagrams.net. 
 
+![screenshot](Diagram_JavaScript_Fundamentals.drawio.png)
 This feature is powered by [diagrams.net](https://app.diagrams.net/).
 * code block with `flow` notation will be rendered by [flowchart.js](http://flowchart.js.org/).
 
