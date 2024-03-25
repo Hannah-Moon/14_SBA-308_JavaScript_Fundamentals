@@ -8,7 +8,7 @@
 <br>
 
 ## 📢 Introduction
-This <b>repository</b> holds an SBA assignment to demonstrate the utilization of modern JS key features. 
+This <b>repository</b> holds a SBA assignment to demonstrate the utilization of modern JS key features. 
 
 #### The objectives of this assignment are: 
 - Employ basic JavaScript syntax accurately.
